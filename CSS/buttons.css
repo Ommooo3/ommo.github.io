@@ -1,4 +1,4 @@
-hpbutton:link, hpbutton:visited {
+.hpbutton:link, .hpbutton:visited {
   align-items: center;
   display: inline-block;
   appearance: button;
@@ -24,7 +24,7 @@ hpbutton:link, hpbutton:visited {
   -webkit-user-select: none;
 }
 
-hpbutton:hover, hpbutton:active {
+.hpbutton:hover, .hpbutton:active {
   background-color: #0b596e;
   color: #75c7db
 }
