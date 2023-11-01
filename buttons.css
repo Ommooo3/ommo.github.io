@@ -1,19 +1,20 @@
-/* CSS */
-.button-22 {
+a:link, a:visited {
   align-items: center;
+  display: inline-block;
   appearance: button;
-  background-color: #0276FF;
+  background-color: #fff;
   border-radius: 8px;
   border-style: none;
   box-shadow: rgba(255, 255, 255, 0.26) 0 1px 2px inset;
   box-sizing: border-box;
-  color: #fff;
+  color: #147c90;
   cursor: pointer;
   display: flex;
   flex-direction: row;
   flex-shrink: 0;
-  font-family: "RM Neue",sans-serif;
-  font-size: 100%;
+  font-family: "Inter";
+  font-size: 14;
+  font-weight: 600;
   line-height: 1.15;
   margin: 0;
   padding: 10px 21px;
@@ -24,10 +25,7 @@
   -webkit-user-select: none;
 }
 
-.button-22:active {
-  background-color: #006AE8;
-}
-
-.button-22:hover {
-  background-color: #1C84FF;
+a:hover, a:active {
+  background-color: #0b596e;
+  color: #fff
 }
