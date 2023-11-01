@@ -1,6 +1,13 @@
 @font-face {
-    font-family: 'Rockaboy';
+    font-family: 'rockaboy';
     src: url('../TTF/rockaboy.ttf');
+    src: url('../TTF/rockaboy-webfont.eot');
+    src: url('../TTF/rockaboy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../TTF/rockaboy-webfont.woff2') format('woff2'),
+         url('../TTF/rockaboy-webfont.woff') format('woff'),
+         url('../TTF/rockaboy-webfont.svg#rockaboyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 h1 {
