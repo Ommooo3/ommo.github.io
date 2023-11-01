@@ -11,8 +11,7 @@
 }
 
 h1 {
-	font-family:'rockaboy'; 
-	line-height:2.60em; 
+	font-family:'rockaboy';  
 	font-weight:normal; 
 	font-size:96px; 
 	letter-spacing:0.75px;
@@ -21,7 +20,6 @@ h1 {
 
 h2 {
 	font-family:'sofia-pro'; 
-	line-height:2.60em; 
 	font-weight:500; 
 	font-size:48px; 
 	letter-spacing:0px;
@@ -33,6 +31,4 @@ p {
 	font-size:18px;
 	font-weight:normal;
 	color: #fff;
-	margin-right: 350px;
-	margin-left: 350px;
 }
