@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #053946;
+  background-color: #fff;
+  text-align: center;
+  padding: 10px 21px;
+  text-decoration: none;
+  font-family: "Inter";
+  font-size: 14;
+  font-weight: 600;
+  transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #0b596e;
+  color: #fff
+}
