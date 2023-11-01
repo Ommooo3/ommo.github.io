@@ -1,4 +1,4 @@
 body {
 	background-image: url("../SVG/background.svg");
-	background-size: fill;
+	background-size: cover;
 }
