@@ -1,11 +1,10 @@
-a:link, a:visited {
+hpbutton:link, hpbutton:visited {
   align-items: center;
   display: inline-block;
   appearance: button;
-  background-color: #fff;
+  background-color: #75c7db;
   border-radius: 8px;
   border-style: none;
-  box-shadow: rgba(255, 255, 255, 0.26) 0 1px 2px inset;
   box-sizing: border-box;
   color: #147c90;
   cursor: pointer;
@@ -25,7 +24,7 @@ a:link, a:visited {
   -webkit-user-select: none;
 }
 
-a:hover, a:active {
+hpbutton:hover, hpbutton:active {
   background-color: #0b596e;
-  color: #fff
+  color: #75c7db
 }
