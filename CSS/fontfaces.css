@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rockaboy';
+    src: url('../TTF/rockaboy.ttf');
+}
+
+h1 {
+	font-family: 'sofia-pro';font-weight:600;
+}
+body {
+    font-family:'Inter';font-size:18px;font-weight:normal;
+	color: #fff;
+}
