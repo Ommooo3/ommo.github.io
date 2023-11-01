@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #0b596e;
+  background-color: #053c4a;
   font-family: "Inter";
   font-weight: 600;
 }
@@ -23,6 +23,6 @@ li a {
 }
 
 li a:hover {
-  background-color: #0b596e;
+  background-color: #04323d;
   color: #fff;
 }
