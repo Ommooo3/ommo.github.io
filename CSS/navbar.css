@@ -3,27 +3,26 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #053946;
+  background-color: #147c90;
+  font-family: "Inter";
+  font-weight: 600;
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
   display: block;
-  color: #77c8dc;
-  background-color: #053946;
+  color: white;
   text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
   font-family: "Inter";
-  font-size: 14;
   font-weight: 600;
-  transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #0b596e;
-  color: #fff
+  color: #fff;
 }
