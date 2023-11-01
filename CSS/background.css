@@ -1,10 +1,10 @@
 <<<<<<< HEAD
 body {
-	background-image: url(../SVG\background.svg);
+	background-image: url(../SVG/background.svg);
 	background-size: cover;
 =======
 body {
-	background-image: url(../background.svg);
+	background-image: url(../SVG/background.svg);
 	background-size: cover;
 >>>>>>> d4f45dd0763bf2257bfc432cf929163fd9d37f2d
 }
