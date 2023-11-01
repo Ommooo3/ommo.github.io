@@ -6,7 +6,8 @@
   border-radius: 8px;
   border-style: none;
   box-sizing: border-box;
-  color: #147c90;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  color: #053c4a;
   cursor: pointer;
   display: flex;
   flex-direction: row;
