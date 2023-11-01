@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #053946;
 }
 
 li {
@@ -12,10 +12,9 @@ li {
 
 li a {
   display: block;
-  color: #053946;
-  background-color: #fff;
+  color: #77c8dc;
+  background-color: #053946;
   text-align: center;
-  padding: 10px 21px;
   text-decoration: none;
   font-family: "Inter";
   font-size: 14;
