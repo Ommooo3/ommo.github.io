@@ -11,9 +11,28 @@
 }
 
 h1 {
-	font-family: 'sofia-pro';font-weight:600;
-}
-body {
-    font-family:'Inter';font-size:18px;font-weight:normal;
+	font-family:'rockaboy'; 
+	line-height:2.60em; 
+	font-weight:normal; 
+	font-size:96px; 
+	letter-spacing:0.75px;
 	color: #fff;
+}
+
+h2 {
+	font-family:'sofia-pro'; 
+	line-height:2.60em; 
+	font-weight:500; 
+	font-size:48px; 
+	letter-spacing:0px;
+	color: #fff;
+}
+
+p {
+    font-family:'Inter';
+	font-size:18px;
+	font-weight:normal;
+	color: #fff;
+	margin-right: 150px;
+	margin-left: 150px;
 }
