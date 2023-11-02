@@ -20,6 +20,7 @@ h1 {
 h2 {
 	font-family:'sofia-pro'; 
 	font-weight:500; 
+	letter-spacing:-2px;
 	font-size:48px;
 	margin-top:1em;
 	color: #fff;
