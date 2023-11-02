@@ -1,7 +1,7 @@
 @media screen and (max-width: 480px) {
   p {
-    padding-right: 16px;
-	padding-left: 16px;
+    padding-right: 12px;
+	padding-left: 12px;
 	font-size:16px; 
   }
   h1 {
@@ -14,8 +14,8 @@
 
 @media screen and (max-width: 768px) {
   p {
-    padding-right: 20px;
-	padding-left: 20px;
+    padding-right: 16px;
+	padding-left: 16px;
 	font-size:20px; 
   }
   h1 {
