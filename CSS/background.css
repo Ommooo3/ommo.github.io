@@ -1,13 +1,5 @@
-.background {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  z-index: -1;
-
-  background-image: url(../SVG/background.svg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
+body {
+    background-image: url("../SVG/background.svg");
+    background-size: cover;
+	background-attachment: scroll;
 }
