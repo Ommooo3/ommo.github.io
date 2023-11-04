@@ -20,6 +20,7 @@
   text-decoration: none;
   font-family: "Inter";
   font-weight: 600;
+  position: fixed;
 }
 
 .navbar li a:hover {
