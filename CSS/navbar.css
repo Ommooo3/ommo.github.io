@@ -9,12 +9,10 @@
 }
 
 .navbar li {
-  list-style-type: none;
   float: right;
 }
 
 .navbar li a {
-  list-style-type: none;
   display: block;
   color: white;
   text-align: center;
@@ -25,7 +23,6 @@
 }
 
 .navbar li a:hover {
-  list-style-type: none;
   background-color: #04323d;
   color: #fff;
 }
