@@ -1,4 +1,4 @@
-.navbar ul {
+ul .navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -8,11 +8,11 @@
   font-weight: 600;
 }
 
-.navbar li {
+li .navbar {
   float: right;
 }
 
-.navbar li a .navbar {
+li a .navbar {
   display: block;
   color: white;
   text-align: center;
@@ -22,7 +22,7 @@
   font-weight: 600;
 }
 
-.navbar li a:hover {
+li a:hover .navbar {
   background-color: #04323d;
   color: #fff;
 }
