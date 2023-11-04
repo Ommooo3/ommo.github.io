@@ -21,6 +21,7 @@
   font-family: "Inter";
   font-weight: 600;
   position: fixed;
+  margin-right:50px
 }
 
 .navbar li a:hover {
