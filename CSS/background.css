@@ -6,7 +6,7 @@
   background-color: rgba(51, 44, 44, .7);
   width: 100%;
   max-width: 100%;
-  min-height: 100%;         /* ADDED */
-  position:fixed;        /* ADDED */
+  min-height: 100vh;         /* ADDED */
+  position:absolute;        /* ADDED */
   z-index:-1;               /* ADDED */
 }
