@@ -7,7 +7,7 @@
   width: 100%;
   max-width: 100%;
   /*min-height: 100vh;*/
-  min-height: 100%;         /* ADDED */
+  min-height: 200%;         /* ADDED */
   position:absolute;        /* ADDED */
   z-index:-1;               /* ADDED */
 }
