@@ -5,8 +5,10 @@
   background-size: cover;
   background-color: rgba(51, 44, 44, .7);
   width: 100%;
-  height: auto;
+  overflow-x: hidden;
+  overflow-y: scroll;
   max-width: 100%;
+  min-height: 100%;
   position:absolute;
   z-index:-1;
 }
