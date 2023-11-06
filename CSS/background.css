@@ -2,12 +2,11 @@
   background-image: url(../SVG/background.svg);
   background-position: top;
   background-repeat: repeat;
-  background-size: fill;
+  background-size: cover;
   background-color: rgba(51, 44, 44, .7);
   width: 100%;
   max-width: 100%;
-  /*min-height: 100vh;*/
-  min-height: 100%;         /* ADDED */
+  min-height: 100vh;         /* ADDED */
   position:absolute;        /* ADDED */
   z-index:-1;               /* ADDED */
 }
