@@ -5,8 +5,9 @@
   background-size: cover;
   background-color: rgba(51, 44, 44, .7);
   width: 100%;
+  height: 100%;
   max-width: 100%;
-  min-height: 100vh;         /* ADDED */
+  min-height: 100%;         /* ADDED */
   position:absolute;        /* ADDED */
   z-index:-1;               /* ADDED */
 }
