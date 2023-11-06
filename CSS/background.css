@@ -4,8 +4,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgba(51, 44, 44, .7);
-  background-blend-mode: overlay;
-  filter: blur(3px);
   width: 100%;
   max-width: 100%;
   /*min-height: 100vh;*/
