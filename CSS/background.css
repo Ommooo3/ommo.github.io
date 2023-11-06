@@ -8,8 +8,9 @@
   -o-background-size: cover;
   background-color: rgba(51, 44, 44, .7);
   width: 100%;
+  height: auto;
   max-width: 100%;
-  min-height: 100%;
+  min-height: 100vh;
   position:absolute;
   z-index:-1;
 }
