@@ -1,6 +1,6 @@
 .bg-image {
   background-image: url(../SVG/background.svg);
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgba(51, 44, 44, .7);
