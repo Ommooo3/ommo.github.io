@@ -1,12 +1,12 @@
 .bg-image {
-  background-image: url(../SVG/background.svg);
+  background-image: url(../SVG/background-1920-1080.svg);
   background-position: top;
   background-repeat: repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-color: rgba(51, 44, 44, .7);
+  background-color: rgba(11, 92, 113);
   width: 100%;
   max-width: 100%;
   min-height: 100%;
