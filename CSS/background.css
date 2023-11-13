@@ -1,7 +1,6 @@
 .bg-image {
   background-image: url(../SVG/background-1920-1080.svg);
   background-position: top;
-  top:-5%;
   background-repeat: repeat;
   background-size: cover;
   -webkit-background-size: cover;
