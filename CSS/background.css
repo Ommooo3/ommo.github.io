@@ -7,9 +7,13 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-color: #0b5c71;
+  position:absolute;
   width: 100%;
   max-width: 100%;
   min-height: 100%;
-  position:absolute;
   z-index:-1;
+}
+
+html {
+    background: #0b5c71 !important;
 }
