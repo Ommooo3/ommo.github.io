@@ -20,5 +20,7 @@ html {
 
 .opaquebox {
 	background-color: #053a47;
+	background: rgba(255,255,255,1);
 	opacity: .5;
 }
+
