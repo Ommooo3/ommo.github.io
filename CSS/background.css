@@ -17,3 +17,8 @@
 html {
     background: #0b5c71 !important;
 }
+
+.opaquebox {
+	background-color: #053a47;
+	opacity: .5;
+}
