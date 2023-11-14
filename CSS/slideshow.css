@@ -22,4 +22,6 @@ img {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  display: flex;
+  flex-direction:column;
 }
