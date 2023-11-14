@@ -35,12 +35,12 @@
   align-items: center;
   display: inline-block;
   appearance: button;
-  background-color: #18181b;
+  background-color: #FFF;
   border-radius: 8px;
   border-style: none;
   box-sizing: border-box;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  color: #FFF;
+  color: #18181b;
   cursor: pointer;
   display: flex;
   flex-direction: row;
@@ -60,6 +60,6 @@
 }
 
 .portfoliobutton:hover, .portfoliobutton:active {
-  background-color: #FFF;
-  color: #18181b
+  background-color: #18181b;
+  color: #FFF
 }
