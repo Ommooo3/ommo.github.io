@@ -19,8 +19,8 @@ html {
 }
 
 .opaquebox {
-	background: rgb(0,0,0,0.5);
-	background: rgba(255,255,255,1);
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
 }
 
 .w3-container p {
