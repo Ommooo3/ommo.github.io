@@ -22,7 +22,6 @@ img {
   max-width: 1000px;
   max-height: 100px;
   position: relative;
-  text-align: center;
   margin: auto;
   display: flex;
   flex-direction:column;
