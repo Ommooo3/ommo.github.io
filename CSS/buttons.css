@@ -20,6 +20,7 @@
   padding: 10px 21px;
   text-align: center;
   text-transform: none;
+  text-decoration: none;
   transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out;
   user-select: none;
   -webkit-user-select: none;
