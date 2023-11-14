@@ -37,6 +37,18 @@ p {
 	text-align:justify;
 }
 
+.linkdecoration a {
+    font-family:'Inter';
+	font-size:20px;
+	font-weight:normal;
+	color: #fff;
+	text-shadow: 1px 1px 2px #000000;
+	margin-left:20%;
+	margin-right:20%;
+	text-align:justify;
+}
+
+
 .small-heading {
 	font-family:'sofia-pro';
 	font-size:30px;
