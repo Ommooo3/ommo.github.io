@@ -19,8 +19,11 @@ html {
 }
 
 .opaquebox {
-	background-color: #053a47;
+	background: rgb(0,0,0,0.5);
 	background: rgba(255,255,255,1);
-	opacity: .5;
 }
 
+.w3-container p {
+	margin-left:10px;
+	margin-right:10px;
+}
