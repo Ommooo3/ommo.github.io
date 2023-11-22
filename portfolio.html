@@ -16,7 +16,9 @@
 	<link rel="stylesheet" href="CSS/textfx.css">
 	<link rel="stylesheet" href="CSS/slideshow.css">
 	<script src="JS/scroll.js"></script>	
+	<script src="JS/overlays.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="color-scheme" content="dark">
 </head>
 
 <body>
@@ -41,11 +43,11 @@
 
   <div class="w3-row-padding"> <!-- First row of images -->
     <div class="w3-third w3-container w3-margin-bottom fadein">
-      <img src="/Portfolio Pages/featured-cyberpunk2077.png" alt="Cyberpunk 2077 3D Poster" style="width:100%;" class="w3-hover-grayscale">
+      <img src="/Portfolio Pages/featured-cyberpunk2077.png" onclick="toggleOverlay1()" alt="Cyberpunk 2077 3D Poster" style="width:100%;" class="w3-hover-grayscale">
       <div class="w3-container opaquebox">
         <p><b>3D Poster: Cyberpunk 2077</b></p>
-        <p>Laser cut and layered with MDF wood, this Cyberpunk 2077 inspired poster awarded me a merit in the final year of my graphic design course.</p>
-		<a class="button, portfoliobutton" href="/portfolio/cyberpunk-2077-poster" style="display:inline-block; text-align:center; margin-left:50px; margin-top:-20px; margin-bottom:20px;"><i>Read More!</i></a>
+        <p>Laser cut and layered with MDF wood, this 3D Cyberpunk 2077 inspired poster awarded me a merit as the final task of my graphic design course.</p>
+		<a class="button, portfoliobutton" onclick="toggleOverlay1()" style="display:inline-block; text-align:center; margin-left:50px; margin-top:-20px; margin-bottom:20px;"><i>Read More!</i></a>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom fadein">
@@ -123,3 +125,11 @@
 <p style="padding-bottom:150px"></p>
 </body>
 </html>
+
+
+<div class="overlay-container1" onclick="toggleOverlay1()">
+  <div class="overlay-content">
+    <img src="/Portfolio Pages/header-cyberpunk2077.png" class="imageheader" alt="Poster Shots">
+	<h2>Cyberpunk 2077 3D Poster</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>

@@ -88,3 +88,15 @@ img {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+.imageheader { /*images should be 1050px wide. height doesn't matter*/
+	img {
+		max-width: 1050px;
+		width: 80%;
+		max-height: auto;
+		object-fit: cover;
+		padding: 35px
+		justify-content: center;
+		align-items: center;
+	}
+}

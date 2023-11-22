@@ -11,6 +11,10 @@
   z-index:-1;
 }
 
+:root {
+  color-scheme: dark;
+}
+
 html {
     background: #0b5c71 !important;
 }
