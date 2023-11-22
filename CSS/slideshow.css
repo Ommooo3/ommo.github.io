@@ -20,7 +20,7 @@ img {
 
 .slideshowheader {
   max-width: 1000px;
-  max-height: 100px;
+  max-height: 75px;
   position: relative;
   margin: auto;
   display: flex;

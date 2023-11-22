@@ -36,3 +36,13 @@ html {
 	margin-left:10px;
 	margin-right:10px;
 }
+
+#baseContainter {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+.basepage {
+    height: 100vh;
+}
