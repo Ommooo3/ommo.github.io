@@ -7,6 +7,15 @@ function scrollToAbout()
     })
 }
 
+function scrollToPortfolio()
+{
+    const element = document.getElementById("portfolio")
+
+    element.scrollIntoView({
+        behavior: 'smooth'
+    })
+}
+
 
 window.onscroll = function() {scrollFunction()};
 
