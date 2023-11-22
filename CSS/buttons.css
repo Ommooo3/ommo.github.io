@@ -97,8 +97,8 @@
 }
 
 .hpredesign:hover {
-  color: #fff;
-  background-color: #1A1A1A;
+  color: #1A1A1A;
+  background-color: #FFF;
   box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
   transform: translateY(-2px);
 }
