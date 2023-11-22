@@ -1,5 +1,5 @@
 #navbar {
-  background: rgba(5, 60, 74, 0.5); /* Black background color */
+  background: rgba(5, 60, 74, 0.3); /* Black background color */
   position: fixed; /* Make it stick/fixed */
   top: -50px; /* Hide the navbar 50 px outside of the top view */
   width: 100%; /* Full width */

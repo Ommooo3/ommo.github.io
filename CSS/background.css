@@ -3,12 +3,10 @@
   background-position: top;
   background-repeat: repeat;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-color: #0b5c71;
   position:absolute;
   width: 100%;
+  top: -50px;
   height: 100vh;
   z-index:-1;
 }
