@@ -65,7 +65,8 @@
 }
 
 .hpredesign {
-  appearance: none;
+  appearance: button;
+  align-items: center;
   background-color: transparent;
   border: 2px solid #1A1A1A;
   border-radius: 15px;
