@@ -1,16 +1,19 @@
+#navbar {
+  background-color: #053c4a; /* Black background color */
+  position: fixed; /* Make it stick/fixed */
+  top: -50px; /* Hide the navbar 50 px outside of the top view */
+  width: 100%; /* Full width */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
+}
+
 #navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  top: -50.5px;
-  width: 100%;
-  position: fixed;
-  display: block;
   background-color: #053c4a;
   font-family: "Inter";
   font-weight: 600;
-  transition: top 0.3s;
 }
 
 #navbar li {
