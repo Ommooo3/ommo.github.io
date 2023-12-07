@@ -1,7 +1,7 @@
 function on() {
-  document.getElementsByID("overlay").style.display = "block";
+  document.getElementsByClassName("overlay").style.display = "block";
 }
 
 function off() {
-  document.getElementsByID("overlay").style.display = "none";
+  document.getElementsByClassName("overlay").style.display = "none";
 }
