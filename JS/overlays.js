@@ -1,4 +1,7 @@
-function toggleOverlay() {
-  var overlay = document.getElementsByClassName("overlay-container")[0];
-  overlay.style.display = (overlay.style.display === "flex") ? "none" : "flex";
+function on() {
+  document.getElementsByClassName("overlay").style.display = "block";
+}
+
+function off() {
+  document.getElementsByClassName("overlay").style.display = "none";
 }
