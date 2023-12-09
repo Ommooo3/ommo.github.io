@@ -89,13 +89,13 @@ img {
   transform: translate(-50%, -50%);
 }
 
-.imageheader { /*images should be 1050px wide. height doesn't matter*/
+.imageheader {
 	img {
-		max-width: 80%;
-		max-height: 80%;
-		margin-left: 20%;
-		margin-right: 20%;
-		padding-top: 75px
-		justify-content: center;
+		width: 80%;
+		height: 80%;
+		object-fit: cover;
+		justify-content:center; 
+		max-width:750px; 
+		height:auto%;
 	}
 }
