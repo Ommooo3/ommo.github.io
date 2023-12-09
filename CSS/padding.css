@@ -92,7 +92,9 @@ img {
 .imageheader { /*images should be 1050px wide. height doesn't matter*/
 	img {
 		max-width: 1050px;
-		width: 80%;
+		max-width: 80%;
+		height: 80%;
+		object-fit: cover;
 		margin-left: 20%;
 		margin-right: 20%;
 		max-height: auto;
