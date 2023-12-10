@@ -102,13 +102,12 @@ img {
 
 .headercontainer div {
   width: 100%;
-  padding-left: 20%;
-  padding-right: 20%;
 }
 .headercontainer img {
   max-width: 1575px;
-  width: 100%;
+  width: 150%;
   height: auto%;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 75px
 }
