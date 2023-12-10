@@ -99,3 +99,16 @@ img {
 		height:auto%;
 	}
 }
+
+.headercontainer div {
+  width: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.headercontainer img {
+  max-width: 1575px;
+  width: 100%;
+  height: auto%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
