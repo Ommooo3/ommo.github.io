@@ -22,7 +22,7 @@ var body = document.body,
   btt.addEventListener('click', function() { 
      
      /* Detect the button class name */
-     var overlayOpen = this.className === 'open-overlay';
+     var overlayOpen = this.className === 'overlay';
      
      /* storing a reference to the opening button */
      if (overlayOpen) {
