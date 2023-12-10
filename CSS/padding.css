@@ -104,7 +104,7 @@ img {
   width: 100%;
 }
 .headercontainer img {
-  max-width: 1575px;
+  max-width: 100%;
   width: 150%;
   height: auto%;
   padding-left: 15%;
