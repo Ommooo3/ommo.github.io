@@ -11,15 +11,3 @@
   z-index: 5;
   cursor: pointer;
 }
-
-.noscroll { 
-  overflow: hidden;
-}
-
-.overlay { 
-   position: fixed; 
-   overflow-y: scroll;
-   inset: 0; }
-
-[aria-hidden="true"]  { display: none; }
-[aria-hidden="false"] { display: block; }
