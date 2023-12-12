@@ -1,7 +1,7 @@
 function on() {
-  document.getElementById("overlay").style.display = "block";
+  document.querySelectorAll("overlay, cp2077, ommologos").style.display = "block";
 }
 
 function off() {
-  document.getElementById("overlay").style.display = "none";
+  document.querySelectorAll("overlay, cp2077, ommologos").style.display = "none";
 }
