@@ -1,13 +1,35 @@
-#overlay {
-  position: fixed;
-  display: none;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.8);
-  z-index: 5;
-  cursor: pointer;
+div#overlay, div#overlay2 #overlay3 #overlay4 #overlay5 #overlay6{
+	position: fixed;
+	display: none;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.8);
+	z-index: 5;
+	cursor: pointer;
+}
+    div#specialBox {
+    display: none;
+    position: fixed;
+    z-index: 3000;
+    height: 100%;
+    width: 100%; 
+    background: #FFF;
+    color: #000;
+}
+div#wrapper {
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    padding-left:24px;
+}
+.closebtn 
+{
+    position: absolute;
+    top: 0%;
+    right: 45px;
+    font-size: 40px;
 }
