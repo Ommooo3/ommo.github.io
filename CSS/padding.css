@@ -111,6 +111,6 @@ div.headercontainer {
 	img {
 		width: 100%;
 		height: auto%;
-		object-fit: none;
+		object-fit: contain;
 	}
 }
