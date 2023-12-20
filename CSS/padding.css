@@ -109,5 +109,6 @@ img {
 .headercontainer { 
 	img {
 		max-width: 1050px;
+		object-fit: none;
 	}
 }
