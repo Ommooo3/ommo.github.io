@@ -106,10 +106,9 @@ img {
 }
 .headercontainer { 
 	img {
-		height: 400px;
+		height: auto%;
 		width: 1050px;
 		max-width: 125%;
-		position: relative;
 		padding-left: 10%;
 		padding-right: 10%;
 	}
