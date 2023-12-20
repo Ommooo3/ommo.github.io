@@ -102,6 +102,8 @@ img {
 
 div.headercontainer {
 	padding-top: 75px;
+	width: 100%;
+	height: 400px;
 	padding-left: 10%;
 	padding-right: 10%;
 }
@@ -109,7 +111,7 @@ div.headercontainer {
 	img {
 		width: 100%;
 		height: auto%;
-		max-height: 400px;
-		object-fit: cover;
+		object-fit: none;
+		position: absolute;
 	}
 }
