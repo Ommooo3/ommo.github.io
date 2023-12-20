@@ -107,6 +107,7 @@ div.headercontainer {
 	padding-left: 10%;
 	padding-right: 10%;
 }
+
 .headercontainer { 
 	img {
 		max-width: 100%;
@@ -114,4 +115,13 @@ div.headercontainer {
 		height: auto%;
 		object-fit: contain;
 	}
+}
+
+div.backbutton {
+	position: absolute;
+	top: 75px; 
+	left: 0; 
+	right: 25px;
+	max-width: 10%;
+	max-height: 5%;
 }
