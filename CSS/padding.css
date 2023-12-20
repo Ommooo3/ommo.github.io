@@ -89,29 +89,18 @@ img {
   transform: translate(-50%, -50%);
 }
 
-.imageheader { 
-	img {
-		width: 80%;
-		height: 80%;
-		object-fit: cover;
-		justify-content:center; 
-		max-width:750px; 
-		height:auto%;
-	}
-}
-
 div.headercontainer {
 	padding-top: 75px;
 	width: 100%;
-	height: 600px;
+	height: 400px;
 	padding-left: 10%;
 	padding-right: 10%;
 }
 
 .headercontainer { 
 	img {
-		max-width: 150%;
-		width: 150%;
+		max-width: 100%;
+		width: 100%;
 		height: auto%;
 		object-fit: contain;
 	}
@@ -133,15 +122,15 @@ div.backbutton {
 div.progresscontainer {
 	padding-top: 30px;
 	width: 100%;
-	height: 600px;
+	height: 400px;
 	padding-left: 10%;
 	padding-right: 10%;
 }
 
 .progresscontainer { 
 	img {
-		max-width: 150%;
-		width: 150%;
+		max-width: 100%;
+		width: 100%;
 		height: auto%;
 		object-fit: contain;
 	}
