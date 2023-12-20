@@ -108,7 +108,7 @@ img {
 }
 .headercontainer { 
 	img {
-		width: 100%;
+		width: 1050px;
 		height: auto%;
 		object-fit: cover;
 	}
