@@ -109,7 +109,7 @@ div.headercontainer {
 }
 .headercontainer { 
 	img {
-		display: block;
+		width: 100%;
 		max-width: 1050px;
 		object-fit: none;
 	}
