@@ -109,7 +109,7 @@ div.headercontainer {
 }
 .headercontainer { 
 	img {
-		max-width: 200%;
+		max-width: 100%;
 		width: 100%;
 		height: auto%;
 		object-fit: contain;
