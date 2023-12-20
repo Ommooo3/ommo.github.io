@@ -103,12 +103,12 @@ img {
 .headercontainer {
 	padding-top: 75px;
 	width: 100%;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 .headercontainer { 
 	img {
-		height: auto%;
-		width: 1050px;
-		padding-left: 10%;
-		padding-right: 10%;
+		max-width: 1050px;
+		object-fit: contain;
 	}
 }
