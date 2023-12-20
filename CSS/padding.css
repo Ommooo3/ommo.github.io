@@ -105,9 +105,11 @@ div.headercontainer {
 	width: 100%;
 	padding-left: 10%;
 	padding-right: 10%;
+	position: relative;
 }
 .headercontainer { 
 	img {
+		top: 75px
 		max-width: 1050px;
 		object-fit: none;
 	}
