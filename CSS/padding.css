@@ -105,9 +105,9 @@ div.backbutton {
 div.headercontainer {
 	padding-top: 50px;
 	width: 100%;
-	height: 800px;
-	padding-left: 10%;
-	padding-right: 10%;
+	height: 40vh;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 
 .headercontainer { 
@@ -122,9 +122,9 @@ div.headercontainer {
 div.progresscontainer {
 	padding-top: 30px;
 	width: 100%;
-	height: 600px;
-	padding-left: 10%;
-	padding-right: 10%;
+	height: 60vh;
+	padding-left: 5%;
+	padding-right: 5%;
 	left: 50%;
 }
 
