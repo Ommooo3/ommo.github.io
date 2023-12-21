@@ -12,7 +12,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #053c4a;
+  background-color: rgba(5,60,74,0.5);
   font-family: "Inter";
   font-weight: 600;
 }
