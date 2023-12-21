@@ -112,7 +112,7 @@ div.headercontainer {
 
 .headercontainer { 
 	img {
-		max-width: 1575px;
+		max-width: 150%;
 		width: 1575px;
 		height: auto%;
 		object-fit: contain;
@@ -131,7 +131,7 @@ div.progresscontainer {
 
 .progresscontainer {
 	img {
-		max-width: 1575px;
+		max-width: 150%;
 		width: 1575px;
 		height: auto%;
 		object-fit: contain;
