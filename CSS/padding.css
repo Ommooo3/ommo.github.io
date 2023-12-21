@@ -105,6 +105,7 @@ div.backbutton {
 div.headercontainer {
 	padding-top: 50px;
 	width: 100%;
+	height: auto%;
 	max-height: 800px;
 	padding-left: 5%;
 	padding-right: 5%;
